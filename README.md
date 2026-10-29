@@ -19,3 +19,5 @@ The knowledge base synthesizes a multi-modal corpus of 7 trusted sources:
 * **Cross-Domain Grounding Verification:** Tested hallucination boundaries by querying the notebook on thermodynamic feasibility versus geometric generative priors.
 * **Off-Topic Guardrails:** Validated that the notebook correctly rejects queries outside its curated literature corpus (e.g., tabular machine learning benchmarks).
 * **Automated Artifact Generation:** Leveraged notebook synthesis engines to generate executive briefing documents, comparative mind maps, and deep-dive technical summaries.
+# generative-structural-biology-notebook
+
